@@ -57,5 +57,5 @@ For additional resources and publications related to the scope of this paper, pl
 
 ___
 
-[<img align="left" src="m3g.svg" width="80">](http://m3g.iqm.unicamp.br)
+[<img align="left" src="docs/src/m3g.svg" width="60">](http://m3g.iqm.unicamp.br)
  _This work was carried out by the **M3G Group** at Unicamp in collaboration with the **Biomolecular Simulations Group** at the Institut Pasteur de Montevideo._
