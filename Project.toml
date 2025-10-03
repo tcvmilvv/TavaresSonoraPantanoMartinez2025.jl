@@ -1,0 +1,13 @@
+name = "TavaresSonoraPantanoMartinez2025"
+uuid = "1b1067e5-e735-420e-a2f7-845b7caa394a"
+authors = ["Camila A. Tavares", "Martín Soñora", "Sergio Pantano", "Leandro Martínez"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.6.7"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
