@@ -17,7 +17,7 @@ _Corresponding author:_ <lmartine@unicamp.br>
 >[**Lipid Architecture in the Zika Virus**](linkdoartigo.doi.com)
 
 ## Overview
-![](GA2.png)
+![](docs/src/GA2.png)
 
 This repository contains the supplementary data for the study titled *Lipid Architecture in the Zika Virus*. The research explores the atomic-level distribution of light-material components within the Zika virus. By using coarse-grained simulations with the **[ComplexMixtures.jl](https://github.com/m3g/ComplexMixtures.jl)** package, the study analyzed solvation patterns across the viral structure, revealing specific differences and affinities regarding the light-material.
 
