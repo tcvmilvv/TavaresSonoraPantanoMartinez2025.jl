@@ -16,8 +16,10 @@ _Corresponding author:_ <lmartine@unicamp.br>
 > 🔗 **Paper** <br>
 >[**Lipid Architecture in the Zika Virus**](linkdoartigo.doi.com)
 
+The documentation is available at: https://tcvmilvv.github.io/TavaresSonoraPantanoMartinez2025.jl
+
 ## Overview
-![](docs/src/GA2.png)
+![](docs/src/assets/GA2.png)
 
 This repository contains the supplementary data for the study titled *Lipid Architecture in the Zika Virus*. The research explores the atomic-level distribution of light-material components within the Zika virus. By using coarse-grained simulations with the **[ComplexMixtures.jl](https://github.com/m3g/ComplexMixtures.jl)** package, the study analyzed solvation patterns across the viral structure, revealing specific differences and affinities regarding the light-material.
 
@@ -57,5 +59,5 @@ For additional resources and publications related to the scope of this paper, pl
 
 ___
 
-[<img align="left" src="docs/src/m3g.svg" width="60">](http://m3g.iqm.unicamp.br)
+[<img align="left" src="docs/src/assets/m3g.svg" width="60">](http://m3g.iqm.unicamp.br)
  _This work was carried out by the **M3G Group** at Unicamp in collaboration with the **Biomolecular Simulations Group** at the Institut Pasteur de Montevideo._
