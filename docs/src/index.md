@@ -1,19 +1,15 @@
 # Supplementary Information of _Lipid Architecture in the Zika Virus_
 
-<p>
-  Camila Assis <b>Tavares</b><sup>1,2</sup>, 
-  Martín <b>Soñora</b><sup>3</sup>, 
-  Sergio <b>Pantano</b><sup>3</sup>, 
-  Leandro <b>Martínez</b><sup>1,2</sup>
-</p>
+Camila Assis **Tavares**¹², Martín **Soñora**³, Sergio **Pantano**³, Leandro **Martínez**¹
 
-<div style="font-size:0.8em">
-  <p>
-    <sup>1</sup> Institute of Chemistry, Universidade Estadual de Campinas (UNICAMP), Campinas, SP, Brazil <br>
-    <sup>2</sup> Center for Computational Engineering & Science, Universidade Estadual de Campinas (UNICAMP), Campinas, SP, Brazil <br>
-    <sup>3</sup> Biomolecular Simulations Group, Institut Pasteur de Montevideo, Mataojo 2020, Montevideo, Uruguay
-  </p>
-</div>
+```@raw html
+<span style="font-size:0.8em">
+<sup>1</sup> Institute of Chemistry, Universidade Estadual de Campinas (UNICAMP), Campinas, SP, Brazil <br>
+<sup>2</sup> Center for Computational Engineering & Science, Universidade Estadual de Campinas (UNICAMP), Campinas, SP, Brazil <br>
+<sup>3</sup> Biomolecular Simulations Group, Institut Pasteur de Montevideo, Mataojo 2020, Montevideo, Uruguay<br>
+</span>
+<br>
+```
 
 _Corresponding author:_ [lmartine@unicamp.br](mailto:lmartine@unicamp.br)
 
