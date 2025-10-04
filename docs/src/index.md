@@ -1,13 +1,19 @@
 # Supplementary Information of _Lipid Architecture in the Zika Virus_
 
-Camila Assis **Tavares**<sup>1,2</sup>, Martín **Soñora**<sup>3</sup>, Sergio **Pantano**<sup>3</sup>, Leandro **Martínez**<sup>1,2</sup>
+<p>
+  Camila Assis <b>Tavares</b><sup>1,2</sup>, 
+  Martín <b>Soñora</b><sup>3</sup>, 
+  Sergio <b>Pantano</b><sup>3</sup>, 
+  Leandro <b>Martínez</b><sup>1,2</sup>
+</p>
 
-<span style="font-size:0.8em">
-<sup>1</sup> Institute of Chemistry, Universidade Estadual de Campinas (UNICAMP), Campinas, SP, Brazil <br>
-<sup>2</sup> Center for Computational Engineering & Science, Universidade Estadual de Campinas (UNICAMP), Campinas, SP, Brazil <br>
-<sup>3</sup> Biomolecular Simulations Group, Institut Pasteur de Montevideo, Mataojo 2020, Montevideo, Uruguay<br>
-</span>
-<br>
+<div style="font-size:0.8em">
+  <p>
+    <sup>1</sup> Institute of Chemistry, Universidade Estadual de Campinas (UNICAMP), Campinas, SP, Brazil <br>
+    <sup>2</sup> Center for Computational Engineering & Science, Universidade Estadual de Campinas (UNICAMP), Campinas, SP, Brazil <br>
+    <sup>3</sup> Biomolecular Simulations Group, Institut Pasteur de Montevideo, Mataojo 2020, Montevideo, Uruguay
+  </p>
+</div>
 
 _Corresponding author:_ [lmartine@unicamp.br](mailto:lmartine@unicamp.br)
 
@@ -36,7 +42,7 @@ Pkg.add([
     "Plots"
 ])
 ```
-> Ensure that you are using **Julia 1.11.2** for compatibility with the packages and scipts in the repository.</span>
+<span style="font-size:0.9em;">* Ensure that you are using **Julia 1.11.2** for compatibility with the packages and scipts in the repository.</span>
 
 ### Funding
 The authors acknowledge the financial support of Fapesp (2018/24293-0, 2023/14353-4). Research developed with the help of Coaraci Supercomputer (2019/17874-0).
