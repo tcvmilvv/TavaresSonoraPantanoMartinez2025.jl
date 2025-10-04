@@ -1,6 +1,8 @@
 # Supplementary Information of _Lipid Architecture in the Zika Virus_
 
-Camila Assis **Tavares**¹², Martín **Soñora**³, Sergio **Pantano**³, Leandro **Martínez**¹
+```@raw html
+Camila Assis **Tavares**<sup>1,2</sup>, Martín **Soñora**<sup>3</sup>, Sergio **Pantano**<sup>3</sup>, Leandro **Martínez**<sup>1,2</sup>
+```
 
 ```@raw html
 <span style="font-size:0.8em">
@@ -52,7 +54,9 @@ The authors acknowledge the financial support of Fapesp (2018/24293-0, 2023/1435
 ## Additional Resources
 For additional resources and publications related to the scope of this paper, please visit the [**M3G Website**](http://m3g.iqm.unicamp.br).
 
+```@raw
 ___
 
 [<img align="left" src="assets/m3g.svg" width="60">](http://m3g.iqm.unicamp.br)
+```
  _This work was carried out by the **M3G Group** at Unicamp in collaboration with the **Biomolecular Simulations Group** at the Institut Pasteur de Montevideo._
