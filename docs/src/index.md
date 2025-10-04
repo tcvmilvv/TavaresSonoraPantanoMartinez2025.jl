@@ -57,7 +57,7 @@ For additional resources and publications related to the scope of this paper, pl
 
 
 ```@raw html
-<a href="[http://m3g.iqm.unicamp.br](http://m3g.iqm.unicamp.br)">
+<a href="http://m3g.iqm.unicamp.br">
     <img align="left" src="assets/m3g.svg" width="60" style="margin-right: 10px;">
 </a>
 ```
