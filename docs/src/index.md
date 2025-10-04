@@ -40,8 +40,8 @@ Pkg.add([
     "Plots"
 ])
 ```
-!!! warning Compatibility
-!!! Ensure that you are using **Julia 1.11.2** for compatibility with the packages and scipts in the repository.
+!!! warning "Compatibility"
+    Ensure that you are using **Julia 1.11.2** for compatibility with the packages and scipts in the repository.
 
 ### Funding
 The authors acknowledge the financial support of Fapesp (2018/24293-0, 2023/14353-4). Research developed with the help of Coaraci Supercomputer (2019/17874-0).
@@ -60,5 +60,6 @@ For additional resources and publications related to the scope of this paper, pl
 <a href="[http://m3g.iqm.unicamp.br](http://m3g.iqm.unicamp.br)">
     <img align="left" src="assets/m3g.svg" width="60" style="margin-right: 10px;">
 </a>
+```
 
  _This work was carried out by the **M3G Group** at Unicamp in collaboration with the **Biomolecular Simulations Group** at the Institut Pasteur de Montevideo._
