@@ -18,33 +18,6 @@ _Corresponding author:_ <lmartine@unicamp.br>
 
 > The documentation is available at: https://tcvmilvv.github.io/TavaresSonoraPantanoMartinez2025.jl
 
-## Overview
-![](docs/src/assets/GA2.png)
-
-This repository contains the supplementary data for the study titled *Lipid Architecture in the Zika Virus*. The research explores the atomic-level distribution of light-material components within the Zika virus. By using coarse-grained simulations with the **[ComplexMixtures.jl](https://github.com/m3g/ComplexMixtures.jl)** package, the study analyzed solvation patterns across the viral structure, revealing specific differences and affinities regarding the light-material.
-
-## Dependencies
-This work was developed using the following software and packages:
-
-- **Julia 1.11.2:** Programming language.
-- **ComplexMixtures v2.10.1:** For light-material distribution analysis.
-- **LaTeXStrings v1.4.0:** For incorporating LaTeX-style formatting in plot labbels and annotations. 
-- **PDBTools v2.1.2:** For handling and analyzing PDB files.
-- **Plots v1.40.9:** For generating high-quality visualizations.
-
-### Installation
-The dependencies can be installed in Julia using:
-```julia
-using Pkg
-Pkg.add([
-    "ComplexMixtures",
-    "LaTeXStrings",
-    "PDBTools",
-    "Plots"
-])
-```
-<span style="font-size:0.9em;">* Ensure that you are using **Julia 1.11.2** for compatibility with the packages and scipts in the repository.</span>
-
 ### Funding
 The authors acknowledge the financial support of Fapesp (2018/24293-0, 2023/14353-4). Research developed with the help of Coaraci Supercomputer (2019/17874-0).
 
