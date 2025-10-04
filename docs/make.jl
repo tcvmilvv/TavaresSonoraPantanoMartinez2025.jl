@@ -7,7 +7,7 @@ makedocs(
     modules = [TavaresSonoraPantanoMartinez2025],
     pages = [
         "Home" => "index.md",
-        "Supplementary Images" => "supplementaryimages.md"
+        "Supplementary Figures" => "figures.md"
     ]
 )
 

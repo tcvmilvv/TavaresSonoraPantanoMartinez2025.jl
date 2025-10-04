@@ -13,3 +13,13 @@ For easy reference:
 * Subunit-Resolved Lipid Contributions: Comparative 2D density maps displaying the spatial organization of lipid beads from POPC, POPE, and POPS around EH, ET, and MH subunits, providing insight into domain-level interaction patterns.
 
 * Helical Orientation and Hydrophobic Moment Analysis: Helical wheel representations for all envelope and membrane protein chains, mapping lipid contributions within 5 Å and visualizing the orientation of hydrophobic moments relative to the membrane.
+
+## Structural Overview of the Viral Envelope and Lipid Coordination
+
+```@raw html
+<figure style="text-align: center;">
+  <img src="../figures/figureS1.png" style="width:100%">
+  <figcaption>Figure S1. Protein–lipid contacts of the E–M complex with (a) POPE in the outer leaflet of chains, (b) POPS in the outer leaflet, (c) POPE in the inner leaflet, and (d) POPS in the inner leaflet. Darker areas indicate regions of more frequent lipid interactions in chains of type K and L.</figcaption>
+</figure>
+
+```
