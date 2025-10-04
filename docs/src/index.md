@@ -1,7 +1,7 @@
 # Supplementary Information of _Lipid Architecture in the Zika Virus_
 
 ```@raw html
-Camila Assis **Tavares**<sup>1,2</sup>, Martín **Soñora**<sup>3</sup>, Sergio **Pantano**<sup>3</sup>, Leandro **Martínez**<sup>1,2</sup>
+Camila Assis <b>Tavares</b><sup>1,2</sup>, Martín <b>Soñora</b><sup>3</sup>, Sergio <b>Pantano</b><sup>3</sup>, Leandro <b>Martínez</b><sup>1,2</sup> <br>
 ```
 
 ```@raw html
