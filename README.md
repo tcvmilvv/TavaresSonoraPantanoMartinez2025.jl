@@ -16,7 +16,7 @@ _Corresponding author:_ <lmartine@unicamp.br>
 > 🔗 **Paper** <br>
 >[**Lipid Architecture in the Zika Virus**](linkdoartigo.doi.com)
 
-The documentation is available at: https://tcvmilvv.github.io/TavaresSonoraPantanoMartinez2025.jl
+> The documentation is available at: https://tcvmilvv.github.io/TavaresSonoraPantanoMartinez2025.jl
 
 ## Overview
 ![](docs/src/assets/GA2.png)
