@@ -22,7 +22,7 @@ custom_protein_residues!(SIRAH)
 
 # Load the PDB file
 ats = readPDB("zikv_structure.pdb")
-´´´
+```
 
 ## Analyses
 
