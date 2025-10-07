@@ -7,8 +7,18 @@ This section contains example scripts designed to demonstrate how to perform the
 A step-by-step workflow designed to ensure reproducibility in the molecular dynamics analysis is demonstrated here. Follow the steps below to reproduce the analysis and modify them as needed for your specific datasets or research goals. 
 
 ```julia
-# Activate the project environment
-import Pkg; Pkg.activate(".")
+#
+# Package environment and installation:
+#
+import Pkg
+Pkg.update()
+# Create and/or activate environment
+Pkg.activate("ZIKALipids"; shared=true) 
+# Install packages with the versions used in these analyses:
+Pkg.add(name="ComplexMixtures", version="2.14")
+Pkg.add(name="LaTeXStrings", version="1.4")
+Pkg.add(name="PDBTools", version="3.6")
+Pkg.add(name="Plots", version="1.41")
 
 # Load required packages
 using ComplexMixtures
