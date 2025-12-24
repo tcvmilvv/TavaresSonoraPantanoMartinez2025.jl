@@ -11,7 +11,7 @@ The supplementary material includes analyses assessing simulation equilibration 
 
 ```@raw html
 <figure style="text-align: center;">
-  <img src="../figures/figureS38.png" style="width:100%">
+  <img src="../figures/figureS38.png" style="width:60%">
   <figcaption>Coordination number as a function of time for residue W429, shown separately for contacts with POPC (a), POPE (b), and POPS (c). This residue is presented as a representative example to illustrate the equilibration of lipid–protein contacts. The absence of systematic drifts and the presence of stationary fluctuations indicate that the system is well equilibrated over the analyzed time window.</figcaption>
 </figure>
 ```
