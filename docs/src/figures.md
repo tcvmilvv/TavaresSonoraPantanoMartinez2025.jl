@@ -33,7 +33,7 @@ For easy reference:
 ```@raw html
 <figure style="text-align: center;">
   <img src="../figures/figureS3.png" style="width:100%">
-  <figcaption>Hammer–Aitoff projections comparing POPS interaction frequencies across envelope–membrane protein chains.</figcaption>
+  <figcaption>Figure S3. Hammer–Aitoff projections comparing POPS interaction frequencies across envelope–membrane protein chains.</figcaption>
 </figure>
 ```
 
