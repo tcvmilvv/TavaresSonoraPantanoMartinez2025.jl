@@ -8,7 +8,8 @@ makedocs(
     pages = [
         "Home" => "index.md",
         "Supplementary Figures" => "figures.md",
-        "Scripts" => "scripts.md"
+        "Scripts" => "scripts.md",
+        "Additional Information" => "additional.md"
     ]
 )
 
