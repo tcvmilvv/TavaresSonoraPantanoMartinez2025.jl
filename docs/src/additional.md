@@ -1,6 +1,6 @@
 # Additional Information
 
-The supplementary material provides complementary analyses supporting the robustness and equilibration of the simulations, as well as the reliability of the reported lipid–protein interaction metrics. It includes the time evolution of lipid compositions in the inner and outer leaflets, demonstrating the absence of net compositional changes due to lipid flip-flop on the simulated timescale, representative coordination number time series illustrating the equilibration of lipid–protein contacts, and a detailed assessment of uncertainties associated with all reported percentage values based on block-averaged trajectories. Together, these data confirm that the conclusions drawn in the main text are not affected by finite-time effects or compositional drift.
+The supplementary material includes analyses assessing simulation equilibration and reliability, namely the time evolution of lipid compositions in both leaflets, representative coordination number time series, and uncertainty estimates for all reported percentage values based on block-averaged trajectories.
 
 ```@raw html
 <figure style="text-align: center;">
@@ -18,7 +18,7 @@ The supplementary material provides complementary analyses supporting the robust
 
 ```@raw html
 <figure style="text-align: center;">
-  <img src="../figures/figureS39.png" style="width:100%">
+  <img src="../figures/figureS39.png" style="width:60%">
   <figcaption>Mean percentage of POPC, POPE, and POPS in the inner and outer leaflets, with error bars representing the standard error of the mean. Uncertainties were obtained by block-averaging the trajectories over time, computing lipid percentages for each block, and quantifying the variability across blocks. These data correspond to the percentage values reported in Table 1.</figcaption>
 </figure>
 ```
