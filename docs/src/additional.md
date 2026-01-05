@@ -26,34 +26,34 @@ The supplementary material includes analyses assessing simulation equilibration 
 ```@raw html
 <figure style="text-align: center;">
   <img src="../figures/figureS40.png" style="width:60%">
-  <figcaption>Figure S39. Fluctuations of the coordination number of outer POPC along the simulation and block analysis for time‑correlated data, showing the convergence of the worst block value to the global mean, the dependence of the standard error on the block size, the autocorrelation function with integrated correlation time, and the effective number of independent samples, calculated with the block‑averages method of MolSimToolkit.jl.​</figcaption>
+  <figcaption>Figure S40. Fluctuations of the coordination number of outer POPC along the simulation and block analysis for time‑correlated data, showing the convergence of the worst block value to the global mean, the dependence of the standard error on the block size, the autocorrelation function with integrated correlation time, and the effective number of independent samples, calculated with the block‑averages method of MolSimToolkit.jl.​</figcaption>
 </figure>
 ```
 
 ```@raw html
 <figure style="text-align: center;">
   <img src="../figures/figureS41.png" style="width:60%">
-  <figcaption>Figure S39. Fluctuations of the coordination number of inner POPE along the simulation and block analysis for time‑correlated data, showing the convergence of the worst block value to the global mean, the dependence of the standard error on the block size, the autocorrelation function with integrated correlation time, and the effective number of independent samples, calculated with the block‑averages method of MolSimToolkit.jl.​</figcaption>
+  <figcaption>Figure S41. Fluctuations of the coordination number of inner POPE along the simulation and block analysis for time‑correlated data, showing the convergence of the worst block value to the global mean, the dependence of the standard error on the block size, the autocorrelation function with integrated correlation time, and the effective number of independent samples, calculated with the block‑averages method of MolSimToolkit.jl.​</figcaption>
 </figure>
 ```
 
 ```@raw html
 <figure style="text-align: center;">
   <img src="../figures/figureS42.png" style="width:60%">
-  <figcaption>Figure S39. Fluctuations of the coordination number of outer POPE along the simulation and block analysis for time‑correlated data, showing the convergence of the worst block value to the global mean, the dependence of the standard error on the block size, the autocorrelation function with integrated correlation time, and the effective number of independent samples, calculated with the block‑averages method of MolSimToolkit.jl.​</figcaption>
+  <figcaption>Figure S42. Fluctuations of the coordination number of outer POPE along the simulation and block analysis for time‑correlated data, showing the convergence of the worst block value to the global mean, the dependence of the standard error on the block size, the autocorrelation function with integrated correlation time, and the effective number of independent samples, calculated with the block‑averages method of MolSimToolkit.jl.​</figcaption>
 </figure>
 ```
 
 ```@raw html
 <figure style="text-align: center;">
   <img src="../figures/figureS43.png" style="width:60%">
-  <figcaption>Figure S39. Fluctuations of the coordination number of inner POPS along the simulation and block analysis for time‑correlated data, showing the convergence of the worst block value to the global mean, the dependence of the standard error on the block size, the autocorrelation function with integrated correlation time, and the effective number of independent samples, calculated with the block‑averages method of MolSimToolkit.jl.​</figcaption>
+  <figcaption>Figure S43. Fluctuations of the coordination number of inner POPS along the simulation and block analysis for time‑correlated data, showing the convergence of the worst block value to the global mean, the dependence of the standard error on the block size, the autocorrelation function with integrated correlation time, and the effective number of independent samples, calculated with the block‑averages method of MolSimToolkit.jl.​</figcaption>
 </figure>
 ```
 
 ```@raw html
 <figure style="text-align: center;">
-  <img src="../figures/figureS440.png" style="width:60%">
-  <figcaption>Figure S39. Fluctuations of the coordination number of outer POPS along the simulation and block analysis for time‑correlated data, showing the convergence of the worst block value to the global mean, the dependence of the standard error on the block size, the autocorrelation function with integrated correlation time, and the effective number of independent samples, calculated with the block‑averages method of MolSimToolkit.jl.​</figcaption>
+  <img src="../figures/figureS44.png" style="width:60%">
+  <figcaption>Figure S44. Fluctuations of the coordination number of outer POPS along the simulation and block analysis for time‑correlated data, showing the convergence of the worst block value to the global mean, the dependence of the standard error on the block size, the autocorrelation function with integrated correlation time, and the effective number of independent samples, calculated with the block‑averages method of MolSimToolkit.jl.​</figcaption>
 </figure>
 ```
