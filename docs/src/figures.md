@@ -42,119 +42,119 @@ For easy reference:
 ```@raw html
 <figure style="text-align: center;">
   <img src="../figures/figureS4.png" style="width:100%">
-  <figcaption>Figure S4. Weighted coordination number differences between POPC and POPS, projected as 2D density maps for chain K.</figcaption>
+  <figcaption>Figure S4. Weighted coordination number differences between POPC and POPS, projected as 2D density maps for chain K. The coefficients in labels represent weighting factors based on the 6:3:1 lipid ratio (POPC:POPE:POPS) used in the simulation.</figcaption>
 </figure>
 ```
 
 ```@raw html
 <figure style="text-align: center;">
   <img src="../figures/figureS5.png" style="width:100%">
-  <figcaption>Figure S5. Density plots highlighting how chain K distinguishes coordination preferences between POPE and POPS.</figcaption>
+  <figcaption>Figure S5. Density plots highlighting how chain K distinguishes coordination preferences between POPE and POPS. The coefficients in labels represent weighting factors based on the 6:3:1 lipid ratio (POPC:POPE:POPS) used in the simulation.</figcaption>
 </figure>
 ```
 
 ```@raw html
 <figure style="text-align: center;">
   <img src="../figures/figureS6.png" style="width:100%">
-  <figcaption>Figure S6. 2D density visualization of lipid coordination, showing the relative enrichment of POPC versus POPE around chain M.</figcaption>
+  <figcaption>Figure S6. 2D density visualization of lipid coordination, showing the relative enrichment of POPC versus POPE around chain M. The coefficients in labels represent weighting factors based on the 6:3:1 lipid ratio (POPC:POPE:POPS) used in the simulation.</figcaption>
 </figure>
 ```
 
 ```@raw html
 <figure style="text-align: center;">
   <img src="../figures/figureS7.png" style="width:100%">
-  <figcaption>Figure S7. Coordination landscapes from 2D density maps comparing POPC and POPS interactions with chain M.</figcaption>
+  <figcaption>Figure S7. Coordination landscapes from 2D density maps comparing POPC and POPS interactions with chain M. The coefficients in labels represent weighting factors based on the 6:3:1 lipid ratio (POPC:POPE:POPS) used in the simulation.</figcaption>
 </figure>
 ```
 
 ```@raw html
 <figure style="text-align: center;">
   <img src="../figures/figureS8.png" style="width:100%">
-  <figcaption>Figure S8. Weighted differences in coordination numbers between POPE and POPS, mapped in two dimensions for chain M.</figcaption>
+  <figcaption>Figure S8. Weighted differences in coordination numbers between POPE and POPS, mapped in two dimensions for chain M. The coefficients in labels represent weighting factors based on the 6:3:1 lipid ratio (POPC:POPE:POPS) used in the simulation.</figcaption>
 </figure>
 ```
 
 ```@raw html
 <figure style="text-align: center;">
   <img src="../figures/figureS9.png" style="width:100%">
-  <figcaption>Figure S9. Comparative density maps illustrating coordination disparities between POPC and POPE around chain O.</figcaption>
+  <figcaption>Figure S9. Comparative density maps illustrating coordination disparities between POPC and POPE around chain O. The coefficients in labels represent weighting factors based on the 6:3:1 lipid ratio (POPC:POPE:POPS) used in the simulation.</figcaption>
 </figure>
 ```
 
 ```@raw html
 <figure style="text-align: center;">
   <img src="../figures/figureS10.png" style="width:100%">
-  <figcaption>Figure S10. Two-dimensional maps of weighted coordination differences for POPC versus POPS along chain O.</figcaption>
+  <figcaption>Figure S10. Two-dimensional maps of weighted coordination differences for POPC versus POPS along chain O. The coefficients in labels represent weighting factors based on the 6:3:1 lipid ratio (POPC:POPE:POPS) used in the simulation.</figcaption>
 </figure>
 ```
 
 ```@raw html
 <figure style="text-align: center;">
   <img src="../figures/figureS11.png" style="width:100%">
-  <figcaption>Figure S11. Relative coordination densities of POPE and POPS, resolved on a 2D map for chain O.</figcaption>
+  <figcaption>Figure S11. Relative coordination densities of POPE and POPS, resolved on a 2D map for chain O. The coefficients in labels represent weighting factors based on the 6:3:1 lipid ratio (POPC:POPE:POPS) used in the simulation.</figcaption>
 </figure>
 ```
 
 ```@raw html
 <figure style="text-align: center;">
   <img src="../figures/figureS12.png" style="width:100%">
-  <figcaption>Figure S12. 2D coordination number density differences between POPC and POPE in the context of chain L.</figcaption>
+  <figcaption>Figure S12. 2D coordination number density differences between POPC and POPE in the context of chain L. The coefficients in labels represent weighting factors based on the 6:3:1 lipid ratio (POPC:POPE:POPS) used in the simulation.</figcaption>
 </figure>
 ```
 
 ```@raw html
 <figure style="text-align: center;">
   <img src="../figures/figureS13.png" style="width:100%">
-  <figcaption>Figure S13. Weighted 2D distributions showing how POPC and POPS differ in their coordination with chain L.</figcaption>
+  <figcaption>Figure S13. Weighted 2D distributions showing how POPC and POPS differ in their coordination with chain L. The coefficients in labels represent weighting factors based on the 6:3:1 lipid ratio (POPC:POPE:POPS) used in the simulation.</figcaption>
 </figure>
 ```
 
 ```@raw html
 <figure style="text-align: center;">
   <img src="../figures/figureS14.png" style="width:100%">
-  <figcaption>Figure S14. Two-dimensional mapping of coordination asymmetries between POPE and POPS for chain L.</figcaption>
+  <figcaption>Figure S14. Two-dimensional mapping of coordination asymmetries between POPE and POPS for chain L. The coefficients in labels represent weighting factors based on the 6:3:1 lipid ratio (POPC:POPE:POPS) used in the simulation.</figcaption>
 </figure>
 ```
 
 ```@raw html
 <figure style="text-align: center;">
   <img src="../figures/figureS15.png" style="width:100%">
-  <figcaption>Figure S15. Density-based view of coordination number differences between POPC and POPE, evaluated for chain N.</figcaption>
+  <figcaption>Figure S15. Density-based view of coordination number differences between POPC and POPE, evaluated for chain N. The coefficients in labels represent weighting factors based on the 6:3:1 lipid ratio (POPC:POPE:POPS) used in the simulation.</figcaption>
 </figure>
 ```
 
 ```@raw html
 <figure style="text-align: center;">
   <img src="../figures/figureS16.png" style="width:100%">
-  <figcaption>Figure S16. 2D projection of coordination differences contrasting POPC and POPS around chain N.</figcaption>
+  <figcaption>Figure S16. 2D projection of coordination differences contrasting POPC and POPS around chain N. The coefficients in labels represent weighting factors based on the 6:3:1 lipid ratio (POPC:POPE:POPS) used in the simulation.</figcaption>
 </figure>
 ```
 
 ```@raw html
 <figure style="text-align: center;">
   <img src="../figures/figureS17.png" style="width:100%">
-  <figcaption>Figure S17. Weighted density maps of coordination number differences for POPE and POPS interactions with chain N.</figcaption>
+  <figcaption>Figure S17. Weighted density maps of coordination number differences for POPE and POPS interactions with chain N. The coefficients in labels represent weighting factors based on the 6:3:1 lipid ratio (POPC:POPE:POPS) used in the simulation.</figcaption>
 </figure>
 ```
 
 ```@raw html
 <figure style="text-align: center;">
   <img src="../figures/figureS18.png" style="width:100%">
-  <figcaption>Figure S18. Visualization of coordination differences between POPC and POPE, displayed as 2D density maps for chain P.</figcaption>
+  <figcaption>Figure S18. Visualization of coordination differences between POPC and POPE, displayed as 2D density maps for chain P. The coefficients in labels represent weighting factors based on the 6:3:1 lipid ratio (POPC:POPE:POPS) used in the simulation.</figcaption>
 </figure>
 ```
 
 ```@raw html
 <figure style="text-align: center;">
   <img src="../figures/figureS19.png" style="width:100%">
-  <figcaption>Figure S19. Two-dimensional density mapping of the relative coordination numbers of POPC versus POPS at chain P.</figcaption>
+  <figcaption>Figure S19. Two-dimensional density mapping of the relative coordination numbers of POPC versus POPS at chain P. The coefficients in labels represent weighting factors based on the 6:3:1 lipid ratio (POPC:POPE:POPS) used in the simulation.</figcaption>
 </figure>
 ```
 
 ```@raw html
 <figure style="text-align: center;">
   <img src="../figures/figureS20.png" style="width:100%">
-  <figcaption>Figure S20. Weighted 2D density plots revealing coordination differences between POPE and POPS with chain P.</figcaption>
+  <figcaption>Figure S20. Weighted 2D density plots revealing coordination differences between POPE and POPS with chain P. The coefficients in labels represent weighting factors based on the 6:3:1 lipid ratio (POPC:POPE:POPS) used in the simulation.</figcaption>
 </figure>
 ```
 
