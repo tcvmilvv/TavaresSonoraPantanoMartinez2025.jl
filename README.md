@@ -14,7 +14,7 @@ Camila Assis **Tavares**<sup>1,2</sup>, Martín **Soñora**<sup>3</sup>, Sergio 
 _Corresponding author:_ <lmartine@unicamp.br>
 
 > 🔗 **Paper** <br>
->[**Lipid Architecture in the Zika Virus**](linkdoartigo.doi.com)
+>[**Lipid Architecture in the Zika Virus**](https://doi.org/10.1021/acsphyschemau.5c00113)
 
 > The documentation is available at: https://tcvmilvv.github.io/TavaresSonoraPantanoMartinez2025.jl
 
